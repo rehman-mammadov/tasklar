@@ -1,2 +1,2 @@
-<h1> Praktika üçün hazırlanmış Tasklar. </h1>
-<p> Html ve Css ilə hazırlanmışdır.</p>
+<h1> Tasklar </h1>
+<p> Html və Css ilə hazırlanmışdır.</p>
