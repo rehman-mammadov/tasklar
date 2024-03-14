@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh;
+}
+
+input{
+    margin-bottom: 15px;
+}
+
+#Send{
+    margin-top: 15px;
+}

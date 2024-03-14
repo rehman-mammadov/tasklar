@@ -1,0 +1,18 @@
+body{
+    margin: 5vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    margin-top: 15px;
+}
+
+select{
+    margin-top: 13px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    margin-top: 5vh;
+}
+fieldset{
+    width: 70vh;
+}
+
+input{
+    margin-bottom: 9px;
+}
+
+form #Send{
+    margin-top: 25px;
+}
