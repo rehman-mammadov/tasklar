@@ -1,0 +1,1 @@
+Praktika üçün hazırlanmış Tasklar.
